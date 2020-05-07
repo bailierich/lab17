@@ -27,7 +27,7 @@ public class CountriesApp {
 		System.out.println("Welcome to the Countries Maitenence Application!");
 		printMenu();
 	makeChoice();
-
+System.out.println("Bye Bye");
 	}
 private static void printMenu() {
 	for (int index = 0; index < menu.size(); index++) {
